@@ -57,3 +57,4 @@ class TestClass():
             resultado = funconario_teste.calcular_bonus()  # when
 
             assert resultado  # then
+
