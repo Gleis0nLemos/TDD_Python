@@ -3,15 +3,13 @@
 
 > Status: Em aprendizagem
 
-## Aula 04: 
+## Aula 05: 
 
-#### Exceptions são um tipo de erro do Python que podem ser criadas de forma personalizada ao decorrer do desenvolvimento de um software;
+#### A cobertura de testes é uma das formas de garantir a qualidade do software através da constatação de existência de testes nas principais funcionalidades da aplicação;
 
-#### Criar testes que levam em consideração a existência de exceptions no código através do uso da biblioteca raises() do Pytest;
+#### Utilizar a ferramenta de cobertura de testes do Pytest, o pytest-cov;
 
-#### Utilizar os markers para organizar melhor os testes através do uso de tags específicas para cada grupo de testes;
-
-#### Utilizar o arquivo pytest.ini para formatar as configurações padrões do Pytest.
+#### Criação de relatórios em formatos diferentes, como HTML e XML.st.
 
 <div align=center>
   <h4>Curso, by #Alura</h4>
