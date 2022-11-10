@@ -3,15 +3,11 @@
 
 > Status: Em aprendizagem
 
-## Aula 02: 
+## Aula 03: 
 
-#### O Pytest é o mais utilizado framework de Python dedicado a testes do mercado, sendo altamente escalável e repleto de plugins e extensões;
+#### Test-Driven Development é uma metodologia para desenvolvimento de software utilizando testes e possui 3 etapas cíclicas: Construção de Testes, Implementação de Código e Refatoração;
 
-#### Criar um teste utilizando o Pytest e entendendo que os nomes de cada cada arquivo de testes devem conter prefixos específicos para que sejam levados em consideração pelo Pytest;
-
-#### Testes devem possuir o nome mais verboso o possível;
-
-#### Utilizar o método ágil Given-When-Then para a construção de testes.
+#### Aplicar o TDD na prática desenvolvendo uma nova funcionalidade na aplicação da Dominique (métodos decrescimo_salario() e _eh_socio()).
 
 <div align=center>
   <h4>Curso, by #Alura</h4>
