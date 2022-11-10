@@ -3,11 +3,15 @@
 
 > Status: Em aprendizagem
 
-## Aula 03: 
+## Aula 04: 
 
-#### Test-Driven Development é uma metodologia para desenvolvimento de software utilizando testes e possui 3 etapas cíclicas: Construção de Testes, Implementação de Código e Refatoração;
+#### Exceptions são um tipo de erro do Python que podem ser criadas de forma personalizada ao decorrer do desenvolvimento de um software;
 
-#### Aplicar o TDD na prática desenvolvendo uma nova funcionalidade na aplicação da Dominique (métodos decrescimo_salario() e _eh_socio()).
+#### Criar testes que levam em consideração a existência de exceptions no código através do uso da biblioteca raises() do Pytest;
+
+#### Utilizar os markers para organizar melhor os testes através do uso de tags específicas para cada grupo de testes;
+
+#### Utilizar o arquivo pytest.ini para formatar as configurações padrões do Pytest.
 
 <div align=center>
   <h4>Curso, by #Alura</h4>
